@@ -14,7 +14,8 @@ categories
 
 modeling interfaces such as Ruby
 
-```hemingway = Author.new
+```
+hemingway = Author.new
 hemingway.stories 
 # => [#<Story>, #<Story>, #<Story>]
 # => an array of instances of Stories 
